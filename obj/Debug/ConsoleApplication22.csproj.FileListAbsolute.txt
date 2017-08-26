@@ -1,0 +1,6 @@
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+c:\users\sudsen\documents\visual studio 2015\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
